@@ -1,4 +1,4 @@
-# Habits21-app
+# Трекер привычек
 Трекер привычек (Java)
 
 <div style="display: inline-block;">
